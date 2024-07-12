@@ -13,5 +13,6 @@ tsc -w
 Levantar el servidor, cualquiera de estos comandos
 ```
 nodemon dist/
-nide dist/
 ```
+```
+nide dist/
